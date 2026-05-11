@@ -5,7 +5,7 @@ import { Phone, Mail, MapPin } from "lucide-react";
 export function Footer() {
   return (
     <footer
-      className="bg-foreground text-background py-16 lg:py-20"
+      className="bg-neutral-950 text-white py-16 lg:py-20"
       aria-label="Site footer"
       role="contentinfo"
     >
