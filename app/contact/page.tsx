@@ -43,10 +43,10 @@ export default function ContactPage() {
             Get in Touch
           </span>
           <h1 className="font-serif text-5xl sm:text-6xl lg:text-7xl xl:text-8xl text-black leading-tight max-w-4xl mx-auto mb-8">
-            Let's Talk.
+            Let&apos;s Talk.
           </h1>
           <p className="text-lg sm:text-xl text-gray-500 max-w-2xl mx-auto font-light">
-            Whether you're looking to buy, sell, or invest, our experts are here to guide you.
+            Whether you&apos;re looking to buy, sell, or invest, our experts are here to guide you.
           </p>
         </div>
       </section>
@@ -60,7 +60,7 @@ export default function ContactPage() {
             <div>
               <span className="text-xs font-semibold tracking-[0.2em] uppercase text-gray-400 mb-4 block">Contact Details</span>
               <h2 className="font-serif text-4xl lg:text-5xl mb-12 leading-tight">
-                We're Here to Help.
+                We&apos;re Here to Help.
               </h2>
               
               <div className="space-y-12">
@@ -117,7 +117,7 @@ export default function ContactPage() {
               <div className="bg-gray-50 p-8 sm:p-12 h-full flex flex-col justify-center">
                 <div className="mb-12">
                   <h3 className="font-serif text-3xl mb-4">Send a Message</h3>
-                  <p className="text-gray-500 font-light">Fill out the form below and we'll get back to you within 24 hours.</p>
+                  <p className="text-gray-500 font-light">Fill out the form below and we&apos;ll get back to you within 24 hours.</p>
                 </div>
                 <ContactForm />
               </div>

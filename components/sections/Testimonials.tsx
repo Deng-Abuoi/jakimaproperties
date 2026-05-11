@@ -29,7 +29,7 @@ export function Testimonials() {
           {testimonials.map((t, idx) => (
             <div key={idx} className="flex flex-col">
               <div className="mb-8">
-                <span className="text-6xl font-serif text-gray-200 leading-none">"</span>
+                <span className="text-6xl font-serif text-gray-200 leading-none">&quot;</span>
               </div>
               <p className="text-lg leading-relaxed text-gray-700 font-light mb-8 flex-1">
                 {t.text}

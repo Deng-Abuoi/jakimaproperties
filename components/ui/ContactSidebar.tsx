@@ -1,7 +1,7 @@
 "use client";
 
 import { Phone, MessageCircle, Calendar } from "lucide-react";
-import { cn } from "@/lib/utils";
+
 
 export function ContactSidebar() {
   return (

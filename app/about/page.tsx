@@ -88,7 +88,7 @@ export default function AboutPage() {
                   Founded in 2014, Jakima Properties emerged from a simple vision: to help Kenyans find greater returns by investing in a place to call home.
                 </p>
                 <p>
-                  Based in Nairobi, we've grown into one of the most trusted property agencies in the region, specializing in residential sales, rentals, off-plan developments, and land.
+                  Based in Nairobi, we&apos;ve grown into one of the most trusted property agencies in the region, specializing in residential sales, rentals, off-plan developments, and land.
                 </p>
                 <p>
                   Over the past 10 years, we have built a reputation for transparency, deep market knowledge, and unwavering commitment to client success.
@@ -191,7 +191,7 @@ export default function AboutPage() {
             Ready to Find Your Dream Home?
           </h2>
           <p className="text-lg text-white/60 mb-12 font-light max-w-xl">
-            Whether you're buying, selling, or investing, we're here to help you every step of the way.
+            Whether you&apos;re buying, selling, or investing, we&apos;re here to help you every step of the way.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-6 w-full sm:w-auto">
             <Link 
